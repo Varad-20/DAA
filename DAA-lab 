@@ -1,0 +1,80 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPtg5dicIDkqXXEViPY0vxH",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Varad-20/DAA/blob/main/DAA-lab%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "ritwtzaYmfJq"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "while True:\n",
+        "     x = int(input(\"enter x\"))\n",
+        "     y = int(input(\"enter y\"))\n",
+        "     c = input(\"enter op\")\n",
+        "     if c == \"+\":\n",
+        "        print(x+y)\n",
+        "     elif c == \"-\":\n",
+        "        print(x-y)\n",
+        "     elif c == \"*\":\n",
+        "        print(x*y)\n",
+        "     elif c == \"/\":\n",
+        "        print(x/y)\n",
+        "     else:\n",
+        "        print(\"noob\")\n",
+        "\n",
+        ""
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Bjp_hSs1mf-C",
+        "outputId": "437856cc-d6bb-43a1-d0d8-44cf82882747"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "enter x10\n",
+            "enter y12\n",
+            "enter op+\n",
+            "22\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
